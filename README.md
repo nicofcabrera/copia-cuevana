@@ -1,9 +1,11 @@
-# Actividad 7 - RollingCode
+# Copia de Cuevana
 
-La actividad por RollingCode consta de hacer un "mini Netflix", para practicar las funcionalidades de flex y media queries para hacerlo responsive.
+La actividad propuesta por los profesores de [RollingCode](https://rollingcodeschool.com/), donde consiste en hacer un "mini Netflix", para practicar las funcionalidades de **_Flex Box_** y **_Media Queries_** para hacerlo responsive.
 
-Propuse crear una "copia" de Cuevana3, utilizando su logo e imagenes de peliculas para poder maquetar el sitio. 
+Propuse crear una "copia" de _Cuevana3_, utilizando su logo e imagenes de peliculas para poder maquetar el sitio. 
 
-La idea está en poner practica los conocimientos de **_HTML_** y **_CSS (flexbox y mediaqueries)_**
+Link del deploy: [Copia Cuevana](https://benevolent-lily-2fb830.netlify.app/)
 
-[Link del sitio](https://benevolent-lily-2fb830.netlify.app/)
+_PD: Cualquier sugerencia es bienvenida con el fin de querer seguir mejorando. Gracias por ver :)_
+
+[![Logo Linkedin](https://cdn-icons-png.flaticon.com/24/1384/1384014.png "Ir a Linkedin de Nicolas Cabrera")](https://www.linkedin.com/in/nicolas-francisco-cabrera/)
